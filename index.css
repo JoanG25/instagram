@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    margin-top: 80px;
+    margin-left: 500px;
+    width: 500px;
+}
+#crear{
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+#p{
+    margin-left: 30px;
+    font-size: 12px;
+}
+
+#logo{
+    width: 280px;
+    height: 110px;
+    margin-left: 20px;
+}
+
+#boton{
+    border: solid black 1px;
+    border-radius: 3px;
+    background-color: rgb(119, 107, 228);
+    height: 50px;
+    width: 300px;
+    height: 40px;
+    font-size: 22px;
+}
+#imgboton{
+    width: 20px;
+    height: 20px;
+}
+#i{
+    font-size: 15px;
+}
+#robot{
+    border: solid black 1px;
+    width: 300px;
+    height: 30px;
+    padding-top: 15px;
+}
+#ingresar{
+    width: 300px;
+    height: 40px;
+}
+#caja{
+    margin-left: 30px;
+}
+
+#submit{
+    list-style: none;
+    width: 300px;
+    height: 40px;
+    background-color: rgb(66, 133, 221);
+}
